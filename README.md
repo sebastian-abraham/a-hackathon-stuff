@@ -2,8 +2,6 @@
 
 ## /**api/user**
 
----
-
 ### **POST** - Create a user
 
 This endpoint creates a new user. It expects the request body to contain a JSON object with the user's email and password.
